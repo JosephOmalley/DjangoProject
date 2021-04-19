@@ -1,4 +1,7 @@
-# DjangoProject
+# DjangoProject | WordNerd
+
+
+![WordNerd_images_folder](Word_Nerd_Home.PMG)
 ## Intro 
 At the time I am writing this I just finished a two week study of the Python Web frame-work Django. In that time I've implemented my study by makeing a web app called WordNerd.
 WordNerd is a CRUD application that serves the purpose of a journal for words you come across and don't understand in books, articles or wherever you may find them. It works by allowing the user to store a words information in a database. This project was made as a part of a larger project with other developers contributed to, this allowed me to work with verison control in a setting that much resembles a work environment. We had daily standup meeting to attend, along with sprint retrospectives. With that being said here how to project works.
